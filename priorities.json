@@ -1,0 +1,21 @@
+{
+  "examDate": "2027-05-10",
+  "updated": "2026-11-24",
+  "priorities": [
+    {
+      "subject": "Biology",
+      "topic": "Homeostasis",
+      "color": "#79B8A0"
+    },
+    {
+      "subject": "Business",
+      "topic": "Theme 2 application",
+      "color": "#D6A58D"
+    },
+    {
+      "subject": "History",
+      "topic": "Conflict & Tension",
+      "color": "#E1B579"
+    }
+  ]
+}
